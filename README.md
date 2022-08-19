@@ -1,1 +1,1 @@
-# All Course Material for Udemy Course
+# All Course Material for Terraform Study
